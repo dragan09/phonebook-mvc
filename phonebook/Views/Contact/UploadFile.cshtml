@@ -1,0 +1,15 @@
+﻿
+@model phonebook.Models.UploadContactModel
+
+<h1>Add From TextFile</h1>
+
+
+<div class="clearfix"></div>
+
+@using (Html.BeginForm("UploadFile", "Contact", FormMethod.Post, new { encType = "multipart/form-data" }))
+{
+   
+
+    @Html.TextBoxFor(m => m.File, new { type = "file", name = "Files" })<br />
+    <input type="submit" value="Submit File" name="submitme"  />
+}

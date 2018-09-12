@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\bin\Debug\phonebook.core.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\bin\Debug\phonebook.core.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\obj\Debug\phonebook.core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\obj\Debug\phonebook.core.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\obj\Debug\phonebook.core.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.core\obj\Debug\phonebook.core.csprojResolveAssemblyReference.cache

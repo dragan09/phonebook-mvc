@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div id="getContactsDiv">
+@{
+    Html.RenderAction("GetContacts", "Contact");
+}
+</div>
+
+<div id="getPhoneNicknameDiv">
+@{
+    Html.RenderAction("GetPhoneByNickNameAndReverse", "Contact");
+}
+</div>

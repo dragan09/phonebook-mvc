@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.service.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.service.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.core.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.data.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.core.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.data.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\phonebook.data.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\obj\Debug\phonebook.service.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\obj\Debug\phonebook.service.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\obj\Debug\phonebook.service.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\phonebook\phonebook.service\obj\Debug\phonebook.service.pdb

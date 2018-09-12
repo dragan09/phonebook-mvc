@@ -1,0 +1,36 @@
+﻿@model phonebook.Models.PhoneNicknameModel
+
+
+<h2>Retrieve phone number by nickname and vice-versa</h2>
+
+
+<div class="clearfix"></div>
+
+<div class="col-sm-12 filters">
+    @using (Ajax.BeginForm("GetPhoneByNickNameAndReverse", "Contact", new AjaxOptions { UpdateTargetId = "getPhoneNicknameDiv" }))
+    {
+        <div class="col-sm-3">
+
+           
+            @Html.TextBoxFor(model => model.InputParameter, new
+       {
+
+           @class = "form-control",
+           placeholder = "input"
+       })
+
+        </div>
+
+       <div class="col-sm-3">
+           <label>@Model.Result</label>
+       </div>
+
+        <div class="col-sm-2">
+
+            <input type="submit" class="btn btn-default"  value="Search">
+        </div>
+
+              
+    }
+</div>
+<div class="clearfix"></div>
